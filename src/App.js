@@ -31,6 +31,7 @@ export const MyContext = React.createContext();
 function App() {
   return (
     <div className="App">
+      <h2>somethin added</h2>
       <UsingClassLifeCycleComponent />
     </div>
   );
